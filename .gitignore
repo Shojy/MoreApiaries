@@ -1,0 +1,27 @@
+## .gitignore based on file from ForestryMC
+## https://github.com/ForestryMC/ForestryMC/blob/dev/.gitignore
+
+# everything
+/*
+
+# folders
+!/gradle/wrapper
+!/src
+!/api
+
+# files
+!/.gitignore
+!/.gitmodules
+!/CLA.txt
+!/CONTRIBUTING.md
+!/LICENSE.txt
+!/license-header.txt
+!/README.md
+!/application.properties
+!/build.gradle
+!/build.xml
+!/build.properties
+!/gradlew
+!/gradlew.bat
+!/setup*.bat
+!/.travis.yml

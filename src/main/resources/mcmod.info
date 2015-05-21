@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moreapiaries",
+  "name": "More Apiaries",
+  "description": "Bringing sexy to bee keeping!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://minecraft.moon.uk.net",
+  "updateUrl": "",
+  "authorList": ["MrShojy"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
